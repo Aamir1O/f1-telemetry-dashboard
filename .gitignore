@@ -1,0 +1,66 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# =========================
+# FastF1 Cache
+# =========================
+.fastf1_cache/
+cache/
+
+# Session folders
+20*/
+
+# =========================
+# Generated Images
+# =========================
+*_dashboard.png
+*_mobile_dashboard.png
+performance_report*.png
+race_analysis*.png
+*.pdf
+
+# Keep preview images if you have them
+!assets/
+!assets/*.png
+
+# =========================
+# Generated Reports
+# =========================
+performance_report.md
+race_analysis_post.md
+
+# =========================
+# Logs
+# =========================
+*.log
+*.txt
+output.txt
+run_err.txt
+
+# =========================
+# Generated JSON
+# =========================
+insights.json
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
