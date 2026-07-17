@@ -7,7 +7,8 @@ A Python-based Formula 1 telemetry analysis tool that compares two drivers using
 ## Preview
 
 ```
-2026_10_ANT_VER_dashboard.png
+![Dashboard Preview](assets/dashboard_preview.png)
+
 ```
 
 ---
